@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/IDEA-ffffff?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=black">
+<img src="https://img.shields.io/badge/IDEA-BDBDBD?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=black">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 

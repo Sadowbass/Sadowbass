@@ -41,6 +41,7 @@ Interested In
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
 <img src="https://img.shields.io/badge/Azure-326CE5?style=flat-square&logo=Microsoft Azure&logoColor=white">
+<img src="https://img.shields.io/badge/CI_CD-D24939?style=flat-square&logo=Jenkins&logoColor=white">
 
 
 

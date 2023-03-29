@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-#000000?style=flat-square&logo=appveyor"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-#000000?style=flat-square&logo=appveyor"/>
 </a>

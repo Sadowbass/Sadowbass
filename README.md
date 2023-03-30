@@ -44,6 +44,7 @@ Interested In
 <img src="https://img.shields.io/badge/Azure-326CE5?style=flat-square&logo=Microsoft Azure&logoColor=white">
 <img src="https://img.shields.io/badge/CI_CD-D24939?style=flat-square&logo=Jenkins&logoColor=black">
 <img src="https://img.shields.io/badge/KAFKA-231F20?style=flat-square&logo=Apache Kafka&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
 
 
 

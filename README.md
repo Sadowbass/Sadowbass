@@ -35,9 +35,6 @@ Can Use
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=ffffff">
 
 Now Learn  
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
-<img src="https://img.shields.io/badge/K8S-326CE5?style=flat-square&logo=Kubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/Algorithms-000000?style=flat-square&logo=The%20Algorithms&logoColor=white">
 
 Interested In  
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
@@ -46,6 +43,9 @@ Interested In
 <img src="https://img.shields.io/badge/CI_CD-D24939?style=flat-square&logo=Jenkins&logoColor=black">
 <img src="https://img.shields.io/badge/KAFKA-231F20?style=flat-square&logo=Apache Kafka&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/K8S-326CE5?style=flat-square&logo=Kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Algorithms-000000?style=flat-square&logo=The%20Algorithms&logoColor=white">
 
 
 
